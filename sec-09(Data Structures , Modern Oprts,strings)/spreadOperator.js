@@ -78,7 +78,7 @@ const ingredients = [
 // resturant.orderPasta(ingredients[0], ingredients[1], ingredients[2]);
 
 // now use spread operator:
-// resturant.orderPasta(...ingredients);
+resturant.orderPasta(...ingredients);
 
 /*
 --> Note: You might have noticed that the spread operator is actually a bit similar to destructuring , because it also help us get elements out of arrays.
