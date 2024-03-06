@@ -103,4 +103,4 @@ const {
 } = openingHours;
 // console.log(o, c);
 
-// This is all about destructuring of Objects.
+// This is all about destructuring of Objects...
